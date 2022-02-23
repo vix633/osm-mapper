@@ -6,5 +6,6 @@ A line map generator using openmaps to make my own wall decorations of cities I 
 
 ## Get Started
 Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+
 `conda install -c conda-forge osmnx`
 
